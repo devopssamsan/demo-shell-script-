@@ -1,0 +1,79 @@
+    1  ls
+    2  exit
+    3  ls
+    4  cd scripts
+    5  ls
+    6  cat >farhanitrate.txt
+    7  cat farhanitrate.txt
+    8  cat >farhanitrate.txt
+    9  cat farhanitrate.txt
+   10  ls
+   11  ls -l ubuntu@ec2-18-212-227-174.compute-1.amazonaws.com/
+   12  pwd
+   13  clear
+   14  git --init
+   15  git init
+   16  ls
+   17  ls -a
+   18  ls
+   19  cd scripts/
+   20  ls
+   21  la -a
+   22  cd .git
+   23  ls
+   24  cd ..
+   25  pwd
+   26  git status
+   27  git add 3_Idiots.sh 
+   28  git status
+   29  git rm 3_Idiots.sh 
+   30  git rm --cached 3_Idiots.sh 
+   31  git status
+   32  git add 3_Idiots.sh 
+   33  git status
+   34  git commit 3_Idiots.sh 
+   35  git commit -m "Added 3 Idiots Scripts"
+   36  git status
+   37  clear
+   38  ls
+   39  rm 3_Idiots.sh 
+   40  ls 
+   41  git status
+   42  git restore 3_Idiots.sh 
+   43  ls
+   44  git addd .
+   45  git add .
+   46  git status
+   47  ls
+   48  cd ubuntu@ec2-18-212-227-174.compute-1.amazonaws.com/
+   49  ls
+   50  cd ..
+   51  rm ubuntu@ec2-18-212-227-174.compute-1.amazonaws.com/
+   52  rm -r ubuntu@ec2-18-212-227-174.compute-1.amazonaws.com/
+   53  man rm
+   54  rm -R ubuntu@ec2-18-212-227-174.compute-1.amazonaws.com/
+   55  ls
+   56  git status
+   57  git commit -m "Added All fils to GIT"
+   58  git status
+   59  rm -r *.*
+   60  ls
+   61  git restore *.*
+   62  ls
+   63  cd scripts
+   64  man git 
+   65  git config --global username SandeepSamleti
+   66  git config --global user.name SandeepSamleti
+   67  git config --global user.email SandeepSamleti@gmail.com
+   68  touch RADME.md
+   69  touch README.md
+   70  git add README.md 
+   71  git status
+   72  git commit -m "Added Readme 
+   73  git commit -m "Added Readme File to GIT"
+   74  git log
+   75  clear
+   76  history
+   77  history >touch history_commands.txt
+   78  touch history_commands.txt
+   79  history > history_commands.txt
